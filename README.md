@@ -118,25 +118,10 @@ express-api/
 
 ## 👤 Author
 
-Built with ❤️ by \[Your Name]
+Built by Joe21-dev
 
 ````
 
----
-
-## ✅ `.env.example`
-
-```env
-# .env.example
-
-# Port number for your server
-PORT=3000
-
-# Other environment variables (if needed in future)
-# DB_HOST=localhost
-# DB_PORT=3306
-# DB_USER=root
-# DB_PASS=password
 ````
 
 ---
